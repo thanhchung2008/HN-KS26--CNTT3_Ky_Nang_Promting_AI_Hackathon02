@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:**Đỗ THành CHung
 - **Lớp:**CNTT03
-- **Link repository Pha1:**
+- **Link repository Pha1:**https://github.com/thanhchung2008/HN-KS26--CNTT3_Ky_Nang_Promting_AI_Hackathon02
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
