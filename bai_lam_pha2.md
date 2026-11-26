@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:**Đỗ Thành Chung
 - **Lớp:**CNTT03
-- **Link repository Pha2:**
+- **Link repository Pha2:**https://github.com/thanhchung2008/HN-KS26--CNTT3_Ky_Nang_Promting_AI_Hackathon02
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**Gemini
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
