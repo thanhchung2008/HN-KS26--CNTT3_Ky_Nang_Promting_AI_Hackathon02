@@ -123,7 +123,7 @@ tổng tiền, mỗi bước ghi phép tính; dòng cuối có dạng [RESULT: <
 **PROMPT**
 
 ```text
-Bạn là nhân viên mới của Công viên nước Song Xanh,bạn phải đọc email khiếu nại của khách hàng trong thẻ <khieu_nai> và chỉ trả về JSON theo đúng 4 trường quy định : "loai_su_co""khac", "so_khach""tom_tat" . Kết quả trả về y như trong thẻ <vi_du>.
+Bạn là nhân viên mới của Công viên nước Song Xanh,bạn phải đọc email khiếu nại của khách hàng trong thẻ <khieu_nai> và chỉ trả về JSON theo đúng 4 trường quy định : "loai_su_co","khac", "so_khach","tom_tat" . Kết quả trả về y như trong thẻ <vi_du>.
 
 <khieu_nai>
 Ngày 02/11/2026 gia đình tôi 4 người mua vé cả ngày. Khu trượt nước chính và khu sóng nhân tạo đều đóng cả ngày mà website không thông báo trước. Nhân viên cứu hộ rất chu đáo, tôi không có gì phàn nàn về nhân viên. Tôi đề nghị công viên giải quyết thỏa đáng.
